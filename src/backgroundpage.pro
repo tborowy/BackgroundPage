@@ -1,6 +1,6 @@
 TEMPLATE = app
 
-QT += webenginewidgets
+QT += webenginewidgets widgets
 
 SOURCES += main.cpp \
     backgroundpagebrowser.cpp
